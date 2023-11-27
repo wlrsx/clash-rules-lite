@@ -31,4 +31,6 @@ payload:
   - DOMAIN-SUFFIX,fdmstatic.com
   - DOMAIN-SUFFIX,ttlivecdn.com
   - DOMAIN-SUFFIX,ttlstatic.com
+  - DOMAIN-SUFFIX,fcdnstatic-intl.com
   - DOMAIN-SUFFIX,ovscdns.net
+  - DOMAIN,whoami.akamai.net
