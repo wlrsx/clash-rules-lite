@@ -25,3 +25,10 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
+# 2023/11/27 新增
+  - DOMAIN-SUFFIX,fdmimgs.com
+  - DOMAIN-SUFFIX,ifdmimgs.com
+  - DOMAIN-SUFFIX,fdmstatic.com
+  - DOMAIN-SUFFIX,ttlivecdn.com
+  - DOMAIN-SUFFIX,ttlstatic.com
+  - DOMAIN-SUFFIX,ovscdns.net
