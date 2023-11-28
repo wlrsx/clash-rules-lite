@@ -34,3 +34,18 @@ payload:
   - DOMAIN-SUFFIX,fcdnstatic-intl.com
   - DOMAIN-SUFFIX,ovscdns.net
   - DOMAIN,whoami.akamai.net
+# 2023/11/28 新增
+  - DOMAIN-SUFFIX,tiktokcdn.com.c.bytefcdn-oversea.com
+  - DOMAIN-SUFFIX,bytefcdn-ttpeu.com
+  - DOMAIN-SUFFIX,tiktokcdn.com.rocket-cdn.com
+  - DOMAIN-SUFFIX,tiktokcdn.com.qlivecdn.com
+  - DOMAIN-SUFFIX,tiktokcdn.com.atomile.com
+  - DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+  - DOMAIN-SUFFIX,ttlivecdn.com.c.cworldfcdn.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com.c.worldfcdn2.com
+  - DOMAIN,pull-fcdn-ttp2.s.worldfcdn2.com
+  - DOMAIN-SUFFIX,tiktokcdn.com.wsdvs.com
+  - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN,tiktok-webrtc.liveplay.myqcloud.com
+  
+  
