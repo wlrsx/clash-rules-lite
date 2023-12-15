@@ -48,4 +48,5 @@ payload:
   - DOMAIN-SUFFIX,cdn77.org
   - DOMAIN,tiktok-webrtc.liveplay.myqcloud.com
   
-  
+  # 2023/12/15 新增
+  - DOMAIN-SUFFIX,douyincdn.com
