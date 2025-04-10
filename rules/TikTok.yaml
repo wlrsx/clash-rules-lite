@@ -50,3 +50,8 @@ payload:
   
   # 2023/12/15 新增
   - DOMAIN-SUFFIX,douyincdn.com
+  
+  # 2025/04/10 新增
+  - DOMAIN-SUFFIX,ttwebview.com
+  - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokmusic.app
