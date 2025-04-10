@@ -5,7 +5,6 @@ payload:
   - DOMAIN,www.tiktok.com
   - DOMAIN,webcast.tiktok.com
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,byteglb.com
   - DOMAIN-SUFFIX,akamai.net
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akadns.net
