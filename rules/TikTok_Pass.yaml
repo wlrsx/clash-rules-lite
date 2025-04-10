@@ -5,3 +5,4 @@ payload:
   - DOMAIN,www.tiktok.com
   - DOMAIN,webcast.tiktok.com
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,byteglb.com
