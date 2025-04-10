@@ -1,0 +1,7 @@
+# NAME: TikTok_Pass
+# AUTHOR: wlrsx
+# REPO: https://github.com/wlrsx/clash-rules-lite
+payload:
+  - DOMAIN,www.tiktok.com
+  - DOMAIN,webcast.tiktok.com
+  - DOMAIN-SUFFIX,tiktokv.com
