@@ -34,6 +34,9 @@ payload:
   - DOMAIN-SUFFIX,fcdnstatic-intl.com
   - DOMAIN-SUFFIX,ovscdns.net
   - DOMAIN-SUFFIX,akamai.net
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,appsflyersdk.com
 # 2023/11/28 新增
   - DOMAIN-SUFFIX,tiktokcdn.com.c.bytefcdn-oversea.com
   - DOMAIN-SUFFIX,bytefcdn-ttpeu.com
