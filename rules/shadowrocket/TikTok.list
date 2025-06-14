@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,bytedance
 # 2023/11/27 新增
 DOMAIN-SUFFIX,fdmimgs.com
 DOMAIN-SUFFIX,ifdmimgs.com
@@ -31,7 +32,10 @@ DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttlstatic.com
 DOMAIN-SUFFIX,fcdnstatic-intl.com
 DOMAIN-SUFFIX,ovscdns.net
-DOMAIN,whoami.akamai.net
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,appsflyersdk.com
 # 2023/11/28 新增
 DOMAIN-SUFFIX,tiktokcdn.com.c.bytefcdn-oversea.com
 DOMAIN-SUFFIX,bytefcdn-ttpeu.com
@@ -46,5 +50,15 @@ DOMAIN-SUFFIX,tiktokcdn.com.wsdvs.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN,tiktok-webrtc.liveplay.myqcloud.com
   
-  # 2023/12/15 新增
+# 2023/12/15 新增
 DOMAIN-SUFFIX,douyincdn.com
+  
+# 2025/04/10 新增
+DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokmusic.app
+DOMAIN-SUFFIX,ttdns2.com
+DOMAIN-SUFFIX,byteglb.com
+DOMAIN-SUFFIX,byteoversea.net
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,tiktokrow-cdn.com
