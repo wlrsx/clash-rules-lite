@@ -1,3 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,larksuitecdn.com
   - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,bytedapm.com
