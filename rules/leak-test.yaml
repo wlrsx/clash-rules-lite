@@ -1,0 +1,45 @@
+payload:
+  # ===== DNS Leak =====
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,dnscheck.tools
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,dnscheck.pingdom.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,dnsleak.com
+  - DOMAIN-SUFFIX,dnsleak.org
+  - DOMAIN-SUFFIX,perfect-privacy.com
+  - DOMAIN-SUFFIX,dns-oarc.net
+  - DOMAIN-SUFFIX,whoer.net
+
+  # ===== IP Leak =====
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ifconfig.co
+  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,myip.com
+  - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,iplocation.net
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,geoiplookup.io
+  - DOMAIN-SUFFIX,ipapi.co
+
+  # ===== WebRTC Leak =====
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,test.webrtc.org
+
+  # ===== IPv6 Leak =====
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,ipv6-test.com
+
+  # ===== HTTPS DNS / DoH =====
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,dns.quad9.net
+  - DOMAIN-SUFFIX,dns.nextdns.io
+
+  # ===== STUN =====
+  - DOMAIN-SUFFIX,stun.l.google.com
+  - DOMAIN-SUFFIX,stun.cloudflare.com
+  - DOMAIN-SUFFIX,stun.services.mozilla.com
