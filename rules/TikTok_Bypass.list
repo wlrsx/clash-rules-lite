@@ -5,4 +5,7 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akadns.net
+
+# 网页登陆
+DOMAIN,web-sg.tiktok.com
 DOMAIN-WILDCARD,*.www.tiktok.com
