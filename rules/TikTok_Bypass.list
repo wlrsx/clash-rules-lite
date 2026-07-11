@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,akadns.net
 
 # 网页登陆
 DOMAIN,us.tiktok.com
-# DOMAIN,web-sg.tiktok.com
+DOMAIN,web-sg.tiktok.com
 DOMAIN-WILDCARD,*.www.tiktok.com
